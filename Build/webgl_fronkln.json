@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Counter Strike Global Offensive Alien",
+"productVersion": "0.1",
+"dataUrl": "webgl_fronkln.data.unityweb",
+"wasmCodeUrl": "webgl_fronkln.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl_fronkln.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
