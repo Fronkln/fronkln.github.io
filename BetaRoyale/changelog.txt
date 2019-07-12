@@ -1,0 +1,7 @@
+Upcoming Features
+------------------
+
+Saving customizations
+High count player optimizations
+Saving nicknames
+Options menu
