@@ -4,3 +4,4 @@
 -Haberler kismini ekledim
 -Senkronizasyon iyilestirmeleri
 -Thirdperson icin silah modelleri
+-Ekstra FPSController duzeltildi
