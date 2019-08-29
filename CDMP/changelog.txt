@@ -8,4 +8,4 @@
 -Senkronizasyon iyilestirmeleri
 -Thirdperson icin silah modelleri
 -Ekstra FPSController duzeltildi
--Silah arayüzü
+-Silah arayuzu
