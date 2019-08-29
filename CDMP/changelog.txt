@@ -1,7 +1,11 @@
+29.08.2019
+------------
+-Conscriptler
+
 28.08.2019
 ------------
-
 -Haberler kismini ekledim
 -Senkronizasyon iyilestirmeleri
 -Thirdperson icin silah modelleri
 -Ekstra FPSController duzeltildi
+-Silah arayüzü
