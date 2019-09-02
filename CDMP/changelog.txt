@@ -9,6 +9,7 @@
 -Tabanca artık 18 mermi
 -Başlangıç mermisi yükseltildi
 -Tabanca artık 20 -> 30 hasar
+-Muzzleflash eklendi
 
 30.08.2019
 ------------
