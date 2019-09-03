@@ -1,4 +1,9 @@
 
+03.09.2019
+------------
+Ağır arayüz değişiklikleri
+Yeni lobi sistemi
+
 02.09.2019
 ------------
 -Photon Custom Properties'e geçiş
@@ -45,6 +50,7 @@ Puan artık skora yansıyor
 -Ekstra FPSController duzeltildi
 -Silah arayuzu
 
-Yapılacaklar
+TODO
 ------------
 -Kan?
+-Delete Epicplayer run animation (you lost your chance to be credited buddy)
