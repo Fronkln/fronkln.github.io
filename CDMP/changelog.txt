@@ -1,56 +1,67 @@
 
+04.09.2019 - 8.09.2019
+------------
+-Optimizations
+-Lobby system synchronization
+-Player animation fixes
+-Added HMG1(Weapon number 2)
+-Switched from sniper_029 to cremator_039
+-Lighting improvements
+-3D Skybox
+-Ammo crates
+-Cremator_039 unlockables done
+BETA ROYALE & BETA DEFENSE
+-Fixed 3D Skybox lag
+-Map precaching
+-Map optimizations
+-Map ambience
+
 03.09.2019
 ------------
-Ağır arayüz değişiklikleri
-Yeni lobi sistemi
+-Heavy interface changes
+-New lobby system
 
 02.09.2019
 ------------
--Photon Custom Properties'e geçiş
--Veri optimizasyonu
--Satın alma
+-Transition to Photon Custom Properties
+-Data optimization
+-Purchasing
 
 01.09.2019
 ------------
-OnUse değişti
-Satın alma hazırlıkları
-Puan artık skora yansıyor
+-OnUse hanged
+-Purchasing preparations
+-Points can be seen in HUD
 
 31.08.2019
 ------------
--Dalga sistemi (müzikle birlikte)
--Vurunca puan alma (arayüzde gözükmüyor)
--TakeDamage işlevi değişti
--Tabanca reload atarken klip değişmesi
--Animasyon düzeltmeleri
--Tabanca artık 18 mermi
--Başlangıç mermisi yükseltildi
--Tabanca artık 20 -> 30 hasar
--Muzzleflash eklendi
--Conscript MOBA iptal
+-Wave system (with music)
+-Shooting to earn points (not visible in HUD yet)
+-TakeDamage functionality changed
+-Dropping clips when reloading the Pistol
+-Animation fixes
+-Pistol is now 18 bullets
+-Spawn ammunition increased
+-Pistol damage changed from 20 to 30
+-Muzzleflash added
 
 30.08.2019
 ------------
--Conscript yapay zekası geliştirildi
--Ölüm geliştirildi
--Arayüz geliştirildi
--Karakter tasarımı mağazadan yapılabilir
--Bir kaç senkronizasyon düzeltmesi
+-Conscript A.I improved
+-Death improved
+-Interface improved
+-Character can be customized from the store
+-A few synchronization improvements
 
 29.08.2019
 ------------
--Conscriptler
--Ölüm
+-Conscripts
+-Death
 
 28.08.2019
 ------------
--Haberler kismini ekledim
--Senkronizasyon iyilestirmeleri
--Thirdperson icin silah modelleri
--Ekstra FPSController duzeltildi
--Silah arayuzu
-
-TODO
-------------
--Kan?
--Delete Epicplayer run animation (you lost your chance to be credited buddy)
+-Added news tab
+-Synchronization improvements
+-Weapons for ThirdPerson
+-Extra FPSController fixed
+-Weapon interface
