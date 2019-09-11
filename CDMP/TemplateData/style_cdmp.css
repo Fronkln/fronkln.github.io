@@ -3,7 +3,7 @@ body {
   background-image: url("background_consdefense.png");
     background-repeat: no-repeat;
 	  background-attachment: fixed;
-    background-size: 1920px 1080px;
+    background-size: 1920px 1080px !important;
 }
 
 .webgl-content * {border: 0; margin: 0; padding: 0}
