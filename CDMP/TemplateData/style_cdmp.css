@@ -2,7 +2,7 @@
 body {
   background-image: url("background_consdefense.png");
     background-repeat: no-repeat;
-	  background-attachment: fixed;
+	  background-attachment: local;
     background-size: 1920px 1080px !important;
 }
 
